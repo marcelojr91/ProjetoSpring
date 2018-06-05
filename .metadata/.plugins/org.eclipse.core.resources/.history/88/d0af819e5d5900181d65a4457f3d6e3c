@@ -1,0 +1,5 @@
+package br.univille.ProjDACS2018Spring.controller;
+
+public class PacienteController {
+
+}
